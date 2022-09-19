@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: kanit;
+}
+
+.info-alert-box {
+  padding: 30px;
+  background-color: skyblue;
+  font-size: 40px;
+}
+
+.warning-alert-box {
+  background-color: sandybrown;
+  padding: 30px;
+  font-size: 40px;
+}
